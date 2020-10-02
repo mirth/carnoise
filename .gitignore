@@ -1,0 +1,5 @@
+*.csv
+__pycache__/
+*.wav
+notebooks/
+.ipynb_checkpoints
